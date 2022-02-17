@@ -1,4 +1,4 @@
-import Head from 'next/head'
+
 import { Toolbar } from '../components/Toolbar'
 import styles from '../styles/Home.module.css'
 
