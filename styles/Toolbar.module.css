@@ -1,0 +1,17 @@
+.main{
+    width: 500px;
+    display: flex;
+    justify-content: center;
+    border-bottom: 2px solid black;
+    padding-bottom: 0.5rem;
+}
+
+.main div{
+    margin:25px;
+    cursor: pointer;
+    
+}
+
+.main div:hover{
+    color: rga(168, 168, 168);
+}
