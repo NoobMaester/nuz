@@ -18,3 +18,10 @@
     font-size: 16px;
     cursor: pointer;
 }
+
+@media(max-width: 720px){
+    .post{
+      width: 80%;
+      margin: auto;
+    }
+  }

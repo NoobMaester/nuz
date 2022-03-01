@@ -8,3 +8,11 @@
 .main h1{
   margin-top: -50px;
 }
+
+@media(max-width: 720px){
+  .main{
+    width: 80%;
+    margin: auto;
+
+  }
+}
